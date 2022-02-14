@@ -39,7 +39,7 @@ div{
     height:auto;
 }
 .hint{
-    height: 200px;
+    height: auto;
     width:50%;
     border: 2px dashed orangered;
     border-radius: 10px;
